@@ -6,7 +6,7 @@
     "Henry Tao <hi@henrytao.me>"
   ],
   "description": "Cookies is a small client-side javascript library that makes managing cookies easily and integrate with AngularJS.",
-  "main": "closure.js",
+  "main": "cookies.js",
   "keywords": [
     "angular",
     "cookies"
