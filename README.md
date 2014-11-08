@@ -1,4 +1,4 @@
-bower-angular-closure
+bower-angular-cookies
 =====================
 
-Please visit [https://github.com/angularifyjs/angular-closure](https://github.com/angularifyjs/angular-closure)
+Please visit [https://github.com/angularifyjs/angular-cookies](https://github.com/angularifyjs/angular-cookies)
