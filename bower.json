@@ -1,15 +1,17 @@
 {
-  "name": "angular-cookies",
+  "name": "angular-detector",
   "version": "1.2.26",
-  "homepage": "https://github.com/angularifyjs/bower-angular-cookies",
+  "homepage": "https://github.com/angularifyjs/bower-angular-detector",
   "authors": [
     "Henry Tao <hi@henrytao.me>"
   ],
-  "description": "Cookies is a small client-side javascript library that makes managing cookies easily and integrate with AngularJS.",
-  "main": "cookies.js",
+  "description": "Lightweight JavaScript-based User-Agent string parser for Angularjs.",
+  "main": "detector.js",
   "keywords": [
     "angular",
-    "cookies"
+    "detector",
+    "user-agent",
+    "parser"
   ],
   "license": "MIT",
   "ignore": [

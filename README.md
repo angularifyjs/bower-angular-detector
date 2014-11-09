@@ -1,4 +1,5 @@
-bower-angular-cookies
+bower-angular-detector
 =====================
 
-Please visit [https://github.com/angularifyjs/angular-cookies](https://github.com/angularifyjs/angular-cookies)
+Please visit [https://github.com/angularifyjs/angular-detector](https://github.com/angularifyjs/angular-detector)
+
